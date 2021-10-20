@@ -2,9 +2,7 @@
 
 I'm Hardik, a 20 year-old Computer Science Junior looking to solve complex problems through code. I love to dip my toes into Physics, Astronomy and Art. 
 
-<details><summary>
-  
-  If you want to know more about me or contact me, click here ;)  
+<details><summary> If you want to know more about me or contact me, click here ;)  
   
   </summary>
   
