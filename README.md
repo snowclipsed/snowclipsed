@@ -4,7 +4,7 @@ I'm Hardik, a 20 year-old Computer Science Junior looking to solve complex probl
 
 <details><summary>
   
-  If you want to know more about me/contact me, click here ;)  
+  If you want to know more about me or contact me, click here ;)  
   
   </summary>
   
