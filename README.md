@@ -10,8 +10,8 @@ I'm a 21 year-old Computer Science Senior looking to solve problems through code
 <pre><h2 align = 'left'>Research</h2><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
 </summary>
 <br>
-<img src = 'assets/researching.gif' align = 'right' width = 50%>
-I am an upcoming CS researcher and prospective grad student. I have more than an year of research experience as an undergraduate.<br><br>
+<img src = 'assets/researching.gif' align = 'right' width = 60%>
+I am an upcoming CS researcher and prospective grad student. <br>I have more than an year of research experience as an undergraduate.<br><br>
 
 I recently worked with [Dr. Rahul Suresh, *Siberian Federal University*](http://inspeq.sfu-kras.ru/Suresh) on the applications of ML in Physics. Our paper is under review and is to be published in [*Artificial Intelligence Review*](https://www.springer.com/journal/10462). 
 
