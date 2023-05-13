@@ -7,7 +7,7 @@ I'm a 21 year-old Computer Science Senior looking to solve problems through code
 
 <details>
 <summary>
-<pre><h1 align = 'left'>Research <img src = 'assets/bookworm.gif' align = 'right' width = 50px> </pre>
+<pre><h1 align = 'left'>Research</h1><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
 </summary>
 <br>
 
