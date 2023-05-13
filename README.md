@@ -18,7 +18,7 @@ In 2022-23, I worked with [Dr. Rahul Suresh, *Siberian Federal University*](http
 
 <h3>I'm looking for research experience in Computer Science.</h3>
 
-<img src = 'assets/researching.gif' align = 'right' width = 60%>
+<img src = 'assets/researching.gif' align = 'right' width = 40%>
 
 My research interests are as follows :
 
