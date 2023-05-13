@@ -11,7 +11,29 @@ I'm a 21 year-old Computer Science Senior looking to solve problems through code
 </summary>
 <br>
 
-I am an upcoming CS researcher and prospective
+I am an upcoming CS researcher and prospective grad student. I have more than an year of research experience working on the applications of ML in Physics with [Dr. Rahul Suresh, *Siberian Federal University*](http://inspeq.sfu-kras.ru/Suresh). My paper is under review and is to be published in [*Artificial Intelligence Review*](https://www.springer.com/journal/10462).
+
+I'm looking for research experience in Generative AI.
+
+My research interests are as follows :
+
+- Generative AI
+    - GAN Architecture
+    - Super-Resolution
+    - Style Preservation
+    - Video Generation
+    - Procedural Generation using GANs
+    - Ethics of Generative AI
+- Reinforcement Learning
+    - Markov Decision Processes
+    - Deep Reinforcement Learning
+    - RL in Games and Game Design
+- Deep Learning in Games
+    - Procedural Generation Applications
+    - RL Applications in Games
+    - Player Modeling
+    - Multi Agent Systems
+
 </details>
 
 <details>
@@ -33,7 +55,7 @@ This section is in progress :D
 
 <details>
 <summary>
-<pre><h2 align = 'left'>Some Stats</h2><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
+<pre><h2 align = 'left'>My Stats</h2><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
 </summary>
 <br>
 
