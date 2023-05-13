@@ -45,7 +45,7 @@ My research interests are as follows :
 
 <details>
 <summary>
-<pre><h2 align = 'left'>Tech Stack and Projects</h2><img src = 'assets/keyboard.gif' align = 'right' width = 70px></pre>
+<pre><h2 align = 'left'>Tech Stack and Projects</h2><img src = 'assets/keyboard.gif' align = 'right' width = 80px></pre>
 </summary>
 <br>
 
@@ -54,7 +54,7 @@ This section is in progress :D
 
 <details>
 <summary>
-<pre><h2 align = 'left'>Contact me</h2><img src = 'assets/telephone.gif' align = 'right' width = 70px></pre>
+<pre><h2 align = 'left'>Contact me</h2><img src = 'assets/telephone.gif' align = 'right' width = 80px></pre>
 </summary>
 <br>
 This section is also under progress!
@@ -62,7 +62,7 @@ This section is also under progress!
 
 <details>
 <summary>
-<pre><h2 align = 'left'>My Stats</h2><img src = 'assets/rating.gif' align = 'right' width = 70px></pre>
+<pre><h2 align = 'left'>My Stats</h2><img src = 'assets/rating.gif' align = 'right' width = 80px></pre>
 </summary>
 <br>
 Stats will be put in here soon :>
