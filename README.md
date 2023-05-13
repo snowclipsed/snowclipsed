@@ -7,7 +7,7 @@ I'm a 21 year-old Computer Science Senior looking to solve problems through code
 
 <details>
 <summary>
-<pre><h1 align = 'left'>Research</h1><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
+<pre><h2 align = 'left'>Research</h2><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
 </summary>
 <br>
 
@@ -16,7 +16,7 @@ I am an upcoming CS researcher and prospective
 
 <details>
 <summary>
-<pre><h1 align = 'left'>Tech Stack and Projects</h1><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
+<pre><h2 align = 'left'>Tech Stack and Projects</h2><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
 </summary>
 <br>
 
@@ -25,7 +25,7 @@ This section is in progress :D
 
 <details>
 <summary>
-<pre><h1 align = 'left'>Contact me</h1><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
+<pre><h2 align = 'left'>Contact me</h2><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
 </summary>
 <br>
 
@@ -33,7 +33,7 @@ This section is in progress :D
 
 <details>
 <summary>
-<pre><h1 align = 'left'>Some Stats</h1><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
+<pre><h2 align = 'left'>Some Stats</h2><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
 </summary>
 <br>
 
