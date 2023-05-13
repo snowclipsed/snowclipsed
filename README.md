@@ -45,7 +45,7 @@ My research interests are as follows :
 
 <details>
 <summary>
-<pre><h2 align = 'left'>Tech Stack and Projects</h2><img src = 'assets/keyboard.gif' align = 'right' width = 70px></pre>
+<pre><h2 align = 'left'>Tech Stack and Projects</h2><img src = 'assets/keyboard2.gif' align = 'right' width = 70px></pre>
 </summary>
 <br>
 
