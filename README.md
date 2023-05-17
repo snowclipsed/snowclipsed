@@ -100,5 +100,5 @@ My projects are being ported to github, slowly but surely!!
 </summary>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowclipsed&show_icons=true&theme=synthwave)
+![Hardik's Github Stats](https://github-readme-stats.vercel.app/api?username=snowclipsed&show_icons=true&theme=synthwave)
 </details>
