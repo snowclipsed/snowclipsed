@@ -1,4 +1,4 @@
-<h1 align = 'center'> Hey, I'm Hardik.  <img src = "assets/octocat.gif" width = 50px></h1>
+<h1 align = 'center'> Hey, I'm Hardik.  <img src = "assets/octocat1.gif" width = 50px></h1>
 
 <div align = 'center'>
 I'm a 21 year-old Computer Science Senior looking to solve problems through code. <br><br>
