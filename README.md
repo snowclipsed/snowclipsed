@@ -99,5 +99,6 @@ My projects are being ported to github, slowly but surely!!
 <pre><h2 align = 'left'>My Stats</h2><img src = 'assets/rating.gif' align = 'right' width = 80px></pre>
 </summary>
 <br>
-Stats will be put in here soon :>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowclipsed&show_icons=true&theme=synthwave)
 </details>
