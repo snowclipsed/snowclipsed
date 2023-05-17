@@ -1,9 +1,16 @@
 <h1 align = 'center'> Hey, I'm Hardik.  <img src = "assets/sleepingfoxgirl.gif" width = 50px></h1>
 
-<p align = 'center'>
+<div align = 'center'>
 I'm a 21 year-old Computer Science Senior looking to solve problems through code. <br><br>
+
+<a href="https://github.com/snowclipsed" target="_blank"><img src="https://img.shields.io/badge/-Hardik_Bishnoi-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://www.linkedin.com/in/hardikbishnoi/" target="_blank"><img src="https://img.shields.io/badge/-Hardik_Bishnoi-blue?logo=linkedin&style=flat-square" alt="linkedin"></a><br>
+<a href="https://twitter.com/snowclipsed" target="_blank"><img src="https://img.shields.io/badge/-Hardik-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
+<a href="mailto:marcelo@garbin.dev"><img src="https://img.shields.io/badge/-harrybishnoi@gmail.com-white?logo=gmail&style=flat-square" alt="twitter"/></a>
+
 <strong>I am a prospective grad student, and I am looking for research opportunities in CS!</strong> <br>Click on the tabs below if you wanna get to know me more. <br><img src = "assets/pointdown.gif" width = 15px></h1><br>
-</p>
+
+</div>
 
 <details>
 <summary>
@@ -81,17 +88,10 @@ My research interests are as follows :
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align = 'center'> 
                   
+My projects are being ported to github, slowly but surely!!
+
 <br>
 
-This section is in progress :D
-</details>
-
-<details>
-<summary>
-<pre><h2 align = 'left'>Contact me</h2><img src = 'assets/telephone.gif' align = 'right' width = 80px></pre>
-</summary>
-<br>
-This section is also under progress!
 </details>
 
 <details>
