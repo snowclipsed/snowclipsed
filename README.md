@@ -103,6 +103,8 @@ My projects are being ported to github, slowly but surely!!
 
 ![](https://komarev.com/ghpvc/?username=snowclipsed&color=green)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=snowclipsed&theme=dark)](https://git.io/streak-stats)
+
 ![Hardik's Github Stats](https://github-readme-stats.vercel.app/api?username=snowclipsed&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowclipsed&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
