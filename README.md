@@ -101,6 +101,8 @@ My projects are being ported to github, slowly but surely!!
 <br>
 <div align = 'center'>
 
+![](https://komarev.com/ghpvc/?username=snowclipsed&color=green)
+
 ![Hardik's Github Stats](https://github-readme-stats.vercel.app/api?username=snowclipsed&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowclipsed&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
