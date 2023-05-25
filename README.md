@@ -106,7 +106,7 @@ My projects are being ported to github, slowly but surely!!
 
 ![](https://github-readme-stats.vercel.app/api?username=snowclipsed&theme=radical&show_icons=true&count_private=true&size=small)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=snowclipsed&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowclipsed&layout=compact&langs_count=8&theme=radical)
 
