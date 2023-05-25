@@ -101,13 +101,14 @@ My projects are being ported to github, slowly but surely!!
 <br>
 <div align = 'center'>
 
-![](https://komarev.com/ghpvc/?username=snowclipsed&color=green)
+![](https://komarev.com/ghpvc/?username=snowclipsed&color=A020F0)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=snowclipsed&theme=dark)](https://git.io/streak-stats)
 
-![Hardik's Github Stats](https://github-readme-stats.vercel.app/api?username=snowclipsed&show_icons=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=snowclipsed&theme=radical&show_icons=true&count_private=true&size=small)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowclipsed&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kapoor-0905&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowclipsed&layout=compact&langs_count=8&theme=radical)
 
 </div>
 </details>
