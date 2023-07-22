@@ -8,7 +8,7 @@ I'm a 21 year-old Computer Science Senior looking to solve problems through code
 <a href="https://twitter.com/snowclipsed" target="_blank"><img src="https://img.shields.io/badge/-Hardik-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
 <a href="mailto:harrybishnoi@gmail.com"><img src="https://img.shields.io/badge/-harrybishnoi@gmail.com-white?logo=gmail&style=flat-square" alt="twitter"/></a>
 
-<strong>I am a prospective grad student, and I am looking for research opportunities in CS!</strong> <br>Click on the tabs below if you wanna get to know me more. <br><img src = "assets/pointdown.gif" width = 15px></h1><br>
+<strong>I'm an incoming CS grad student @NEU, Portland. I am looking for research opportunities in CS!</strong> <br>Click on the tabs below if you wanna get to know me more. <br><img src = "assets/pointdown.gif" width = 15px></h1><br>
 
 </div>
 
@@ -18,7 +18,7 @@ I'm a 21 year-old Computer Science Senior looking to solve problems through code
 </summary>
 <br>
 
-I am an upcoming CS researcher and prospective grad student. I have more than an year of undergraduate research experience.<br><br>
+I am an upcoming CS researcher and incoming grad student (fall 2023). I have more than a year of undergraduate research experience.<br><br>
 
 In 2022-23, I worked with [Dr. Rahul Suresh, *Siberian Federal University*](http://inspeq.sfu-kras.ru/Suresh) on the applications of ML in Physics. Our paper is under review and is to be published in [*Artificial Intelligence Review*](https://www.springer.com/journal/10462). 
 
