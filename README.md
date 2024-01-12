@@ -1,7 +1,7 @@
 <h1 align = 'center'> Hey, I'm Hardik.  <img src = "assets/octocat1.gif" width = 50px></h1>
 
 <div align = 'center'>
-I'm a 21 year-old Computer Science Senior looking to solve problems through code. <br><br>
+I'm a 22 year-old Computer Science Graduate Student looking to solve problems through code. <br><br>
 
 <a href="https://github.com/snowclipsed" target="_blank"><img src="https://img.shields.io/badge/-Hardik_Bishnoi-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/hardikbishnoi/" target="_blank"><img src="https://img.shields.io/badge/-Hardik_Bishnoi-blue?logo=linkedin&style=flat-square" alt="linkedin"></a><br>
