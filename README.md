@@ -1,15 +1,5 @@
 <h1 align = 'center'> Hey, I'm Hardik.  <img src = "assets/octocat1.gif" width = 50px></h1>
 
-<div align = 'center'>
-I'm a 22 year-old Computer Science Graduate Student looking to solve problems through code. <br><br>
-
-<a href="https://github.com/snowclipsed" target="_blank"><img src="https://img.shields.io/badge/-Hardik_Bishnoi-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/hardikbishnoi/" target="_blank"><img src="https://img.shields.io/badge/-Hardik_Bishnoi-blue?logo=linkedin&style=flat-square" alt="linkedin"></a><br>
-<a href="https://twitter.com/snowclipsed" target="_blank"><img src="https://img.shields.io/badge/-Hardik-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
-<a href="mailto:harrybishnoi@gmail.com"><img src="https://img.shields.io/badge/-harrybishnoi@gmail.com-white?logo=gmail&style=flat-square" alt="twitter"/></a>
-
-<strong>I'm a CS grad student @NEU. I am looking for work/research opportunities in CS for this summer!</strong> <br>Click on the tabs below if you wanna get to know me more. <br><img src = "assets/pointdown.gif" width = 15px></h1><br>
-
 </div>
 
 <details>
