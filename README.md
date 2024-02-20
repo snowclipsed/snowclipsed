@@ -1,7 +1,3 @@
-<h1 align = 'center'> Hey, I'm Hardik.  <img src = "assets/octocat1.gif" width = 50px></h1>
-
-</div>
-
 <details>
 <summary>
 <pre><h2 align = 'left'>Research</h2><img src = 'assets/bookworm.gif' align = 'right' width = 50px></pre>
