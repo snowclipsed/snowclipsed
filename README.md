@@ -6,21 +6,20 @@
 
 I am an upcoming CS researcher and incoming grad student (fall 2023). I have more than a year of undergraduate research experience.<br><br>
 
-In 2022-23, I worked with [Dr. Rahul Suresh, *Siberian Federal University*](http://inspeq.sfu-kras.ru/Suresh) on the applications of ML in Physics. Our paper is under review and is to be published in [*Artificial Intelligence Review*](https://www.springer.com/journal/10462). 
+In 2022-23, I worked with [Dr. Rahul Suresh, *Siberian Federal University*](http://inspeq.sfu-kras.ru/Suresh) on the applications of ML in Physics. Our paper was published in Frontiers in Physics. You can read it [here](https://www.frontiersin.org/articles/10.3389/fphy.2024.1322162/full). 
 
 
-<h3>I'm looking for research experience in Computer Science.</h3>
+<h3>I'm looking for research and development experience in Computer Science.</h3>
 
 <img src = 'assets/researching.gif' align = 'right' width = 50%>
 
 My research interests are as follows :
 
 - ***Generative AI***
-    - GAN Architecture
     - Super-Resolution
     - Style Preservation
     - Video Generation
-    - Procedural Generation using GANs
+    - Procedural Generation
     - Ethics of Generative AI
 
 - ***Reinforcement Learning***
