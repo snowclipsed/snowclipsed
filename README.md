@@ -6,7 +6,7 @@
 
 I am an upcoming CS researcher and grad student at the Khoury College of Computer Sciences, Northeastern University. <br><br>
 
-In 2022-23, I worked with [Dr. Rahul Suresh](http://inspeq.sfu-kras.ru/Suresh) on the applications of ML in Physics. Our paper was published in Frontiers in Physics. You can read it [here](https://www.frontiersin.org/articles/10.3389/fphy.2024.1322162/full). 
+In 2022-23, I worked with [Dr. Rahul Suresh](http://inspeq.sfu-kras.ru/Suresh) on the applications of ML in Physics. Our paper was published recently, in Frontiers in Physics. You can read it [here](https://www.frontiersin.org/articles/10.3389/fphy.2024.1322162/full). 
 
 
 <h3>I'm looking for research and development experience in Computer Science.</h3>
