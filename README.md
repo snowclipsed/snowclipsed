@@ -4,7 +4,7 @@
 </summary>
 <br>
 
-I am an upcoming CS researcher and incoming grad student (fall 2023). I have more than a year of undergraduate research experience.<br><br>
+I am an upcoming CS researcher and grad student at the Khoury College of Computer Sciences, Northeastern University. <br><br>
 
 In 2022-23, I worked with [Dr. Rahul Suresh, *Siberian Federal University*](http://inspeq.sfu-kras.ru/Suresh) on the applications of ML in Physics. Our paper was published in Frontiers in Physics. You can read it [here](https://www.frontiersin.org/articles/10.3389/fphy.2024.1322162/full). 
 
@@ -16,22 +16,16 @@ In 2022-23, I worked with [Dr. Rahul Suresh, *Siberian Federal University*](http
 My research interests are as follows :
 
 - ***Generative AI***
+    - Latent Diffusion Models
+    - Quantization
+    - Language Modeling
     - Super-Resolution
-    - Style Preservation
-    - Video Generation
     - Procedural Generation
-    - Ethics of Generative AI
 
 - ***Reinforcement Learning***
     - Markov Decision Processes
     - Deep Reinforcement Learning
     - RL in Games and Game Design
-
-- ***Deep Learning in Games***
-    - Procedural Generation Applications
-    - RL Applications in Games
-    - Player Modeling
-    - Multi Agent Systems
 
 </details>
 
