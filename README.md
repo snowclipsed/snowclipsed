@@ -1,4 +1,4 @@
-Hey there, I'm snow.
+Hey there, I'm snow (aka Hardik irl).
 
 I like technology. 
 
