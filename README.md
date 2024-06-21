@@ -1,6 +1,6 @@
-Hey there
+Hey there, I'm snow.
 
-I'm snow. I like technology. 
+I like technology. 
 
 Here's my:
 - [website](snowclipsed.github.io)
