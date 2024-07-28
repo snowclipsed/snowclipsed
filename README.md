@@ -1,5 +1,5 @@
-Hey there, I'm Hardik.
-I'm also known as snowclipsed on various platforms/games.
+Hey there, I'm Hardik.<br>
+I'm also known as _snowclipsed_ on various platforms/games.
 
 I like technology. 
 
