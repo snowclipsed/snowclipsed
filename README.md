@@ -1,4 +1,5 @@
-Hey there, I'm snow (aka Hardik irl).
+Hey there, I'm Hardik.
+I'm also known as snowclipsed on various platforms/games.
 
 I like technology. 
 
