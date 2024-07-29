@@ -1,7 +1,7 @@
 Hey there, I'm Hardik.<br>
 I'm also known as _snowclipsed_ on various platforms/games.
 
-I like technology. 
+I like high performance computing and machine intelligence. 
 
 Here's my:
 - [website](snowclipsed.github.io)
