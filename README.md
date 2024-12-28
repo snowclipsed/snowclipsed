@@ -1,5 +1,4 @@
-Hey there, I'm snow.<br>
-I'm also known as _snowclipsed_ on various platforms/games.
+Hey there, I'm snowclipsed.<br>
 
 I like high performance computing and machine intelligence. 
 
